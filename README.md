@@ -1,4 +1,4 @@
 # E-commerce
 
-## Project URL
+## Project URL:
 https://abhisuper64-sketch.github.io/E-commerce/
